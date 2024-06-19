@@ -1,0 +1,1026 @@
+{
+  "vaultName": "SV",
+  "lastExport": 1718477166041,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Свободное Время/Время для развития/images/Pasted image 20240320011329.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011336.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011341.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011346.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011351.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011356.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011400.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011428.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011434.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011439.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011444.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011449.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011453.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011458.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011512.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011525.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011537.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011552.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011558.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011606.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011623.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011635.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011645.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011653.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011757.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011814.png",
+    "Свободное Время/Время для развития/images/Pasted image 20240320011824.png",
+    "Свободное Время/Время для развития/00.md",
+    "Свободное Время/Время для развития/01. ПРОБЛЕМА НАШЕГО ВРЕМЕНИ.md",
+    "Свободное Время/Время для развития/02.md",
+    "Свободное Время/Время для развития/03.md",
+    "Свободное Время/Время для развития/04.md",
+    "Свободное Время/Время для развития/05.md",
+    "Свободное Время/Время для развития/06.md",
+    "Свободное Время/Время для развития/07.md",
+    "Свободное Время/Время для развития/08.md",
+    "Свободное Время/Время для развития/09.md",
+    "Свободное Время/Время для развития/10.md",
+    "Свободное Время/Время для развития/11.md",
+    "Свободное Время/Время для развития/12.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/00.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/01.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/02.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/03.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/04.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/05.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/06.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/07.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/08.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/09.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/10.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/11.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/12.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/13.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/14.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/15.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/16.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/17.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/18.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/19.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/20.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/21.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/22.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/23.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/24.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/25.md",
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/Untitled.md",
+    "Свободное Время/Научный социализм/00 Введение.md",
+    "Свободное Время/Научный социализм/01.md",
+    "Свободное Время/Научный социализм/02.md",
+    "Свободное Время/Научный социализм/03.md",
+    "Свободное Время/Научный социализм/04.md",
+    "Свободное Время/Научный социализм/05.md",
+    "Свободное Время/Научный социализм/06.md",
+    "Свободное Время/Научный социализм/07.md",
+    "Свободное Время/Научный социализм/08.md",
+    "Свободное Время/Научный социализм/09.md",
+    "Свободное Время/Научный социализм/10.md",
+    "Свободное Время/Научный социализм/11.md",
+    "Свободное Время/Научный социализм/12.md",
+    "Свободное Время/Научный социализм/13.md",
+    "Свободное Время/Научный социализм/14.md",
+    "Свободное Время/Научный социализм/15.md",
+    "Свободное Время/Научный социализм/16.md",
+    "index.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 35055,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 4272,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 129920,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011329.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 264817,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011329.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011336.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 447492,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011336.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011341.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 389051,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011341.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011346.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 433170,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011346.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011351.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 438244,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011351.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011356.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 316917,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011356.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011400.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 328936,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011400.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011428.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 498758,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011428.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011434.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 463605,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011434.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011439.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 517192,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011439.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011444.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 437353,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011444.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011449.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 479268,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011449.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011453.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 450741,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011453.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011458.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 120647,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011458.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011512.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 55777,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011512.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011525.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 81239,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011525.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011537.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 149039,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011537.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011552.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 6186,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011552.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011558.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 12827,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011558.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011606.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 14232,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011606.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011623.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 8652,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011623.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011635.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 2469,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011635.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011645.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 1223,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011645.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011653.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 10033,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011653.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011757.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 3308,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011757.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011814.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 10001,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011814.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/images/Pasted image 20240320011824.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 7393,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011824.png",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/00.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 6165,
+      "exportedPath": "свободное-время/время-для-развития/00.html",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/01. ПРОБЛЕМА НАШЕГО ВРЕМЕНИ.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 67823,
+      "exportedPath": "свободное-время/время-для-развития/01.-проблема-нашего-времени.html",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/02.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 23471,
+      "exportedPath": "свободное-время/время-для-развития/02.html",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/03.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 208844,
+      "exportedPath": "свободное-время/время-для-развития/03.html",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/04.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 263216,
+      "exportedPath": "свободное-время/время-для-развития/04.html",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/05.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 221908,
+      "exportedPath": "свободное-время/время-для-развития/05.html",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/06.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 186101,
+      "exportedPath": "свободное-время/время-для-развития/06.html",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/07.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 21474,
+      "exportedPath": "свободное-время/время-для-развития/07.html",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/08.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 39655,
+      "exportedPath": "свободное-время/время-для-развития/08.html",
+      "dependencies": []
+    },
+    "Свободное Время/Время для развития/09.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 1321,
+      "exportedPath": "свободное-время/время-для-развития/09.html",
+      "dependencies": [
+        "свободное-время/время-для-развития/images/pasted-image-20240320011329.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011336.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011341.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011346.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011351.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011356.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011400.png"
+      ]
+    },
+    "Свободное Время/Время для развития/10.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 2176,
+      "exportedPath": "свободное-время/время-для-развития/10.html",
+      "dependencies": [
+        "свободное-время/время-для-развития/images/pasted-image-20240320011428.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011434.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011439.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011444.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011449.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011453.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011458.png"
+      ]
+    },
+    "Свободное Время/Время для развития/11.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 10374,
+      "exportedPath": "свободное-время/время-для-развития/11.html",
+      "dependencies": [
+        "свободное-время/время-для-развития/images/pasted-image-20240320011512.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011525.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011537.png"
+      ]
+    },
+    "Свободное Время/Время для развития/12.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 49605,
+      "exportedPath": "свободное-время/время-для-развития/12.html",
+      "dependencies": [
+        "свободное-время/время-для-развития/images/pasted-image-20240320011552.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011558.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011606.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011623.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011635.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011645.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011653.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011757.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011814.png",
+        "свободное-время/время-для-развития/images/pasted-image-20240320011824.png"
+      ]
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/00.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 16521,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/00.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/01.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 39530,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/01.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/02.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 65103,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/02.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/03.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 41798,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/03.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/04.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 73588,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/04.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/05.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 51957,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/05.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/06.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 39186,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/06.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/07.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 39770,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/07.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/08.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 23068,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/08.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/09.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 37432,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/09.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/10.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 29251,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/10.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/11.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 39631,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/11.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/12.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 67044,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/12.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/13.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 25692,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/13.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/14.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 22893,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/14.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/15.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 22585,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/15.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/16.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 85071,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/16.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/17.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 53895,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/17.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/18.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 47988,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/18.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/19.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 20351,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/19.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/20.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 14443,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/20.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/21.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 44204,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/21.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/22.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 94117,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/22.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/23.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 2548,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/23.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/24.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 68441,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/24.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/25.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 68441,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/25.html",
+      "dependencies": []
+    },
+    "Свободное Время/Наука побеждать - курс Учится коммунизму/Untitled.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 0,
+      "exportedPath": "свободное-время/наука-побеждать-курс-учится-коммунизму/untitled.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/00 Введение.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 12267,
+      "exportedPath": "свободное-время/научный-социализм/00-введение.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/01.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 112083,
+      "exportedPath": "свободное-время/научный-социализм/01.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/02.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 57778,
+      "exportedPath": "свободное-время/научный-социализм/02.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/03.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 301446,
+      "exportedPath": "свободное-время/научный-социализм/03.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/04.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 29243,
+      "exportedPath": "свободное-время/научный-социализм/04.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/05.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 180471,
+      "exportedPath": "свободное-время/научный-социализм/05.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/06.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 73192,
+      "exportedPath": "свободное-время/научный-социализм/06.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/07.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 18958,
+      "exportedPath": "свободное-время/научный-социализм/07.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/08.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 874144,
+      "exportedPath": "свободное-время/научный-социализм/08.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/09.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 197587,
+      "exportedPath": "свободное-время/научный-социализм/09.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/10.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 107613,
+      "exportedPath": "свободное-время/научный-социализм/10.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/11.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 157728,
+      "exportedPath": "свободное-время/научный-социализм/11.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/12.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 181759,
+      "exportedPath": "свободное-время/научный-социализм/12.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/13.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 332874,
+      "exportedPath": "свободное-время/научный-социализм/13.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/14.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 39757,
+      "exportedPath": "свободное-время/научный-социализм/14.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/15.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 70620,
+      "exportedPath": "свободное-время/научный-социализм/15.html",
+      "dependencies": []
+    },
+    "Свободное Время/Научный социализм/16.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 88630,
+      "exportedPath": "свободное-время/научный-социализм/16.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 0,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011329.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 264817,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011329.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011336.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 447492,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011336.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011341.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 389051,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011341.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011346.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 433170,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011346.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011351.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 438244,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011351.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011356.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 316917,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011356.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011400.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 328936,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011400.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011428.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 498758,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011428.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011434.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 463605,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011434.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011439.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 517192,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011439.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011444.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 437353,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011444.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011449.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 479268,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011449.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011453.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 450741,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011453.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011458.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 120647,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011458.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011512.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 55777,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011512.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011525.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 81239,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011525.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011537.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 149039,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011537.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011552.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 6186,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011552.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011558.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 12827,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011558.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011606.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 14232,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011606.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011623.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 8652,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011623.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011635.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 2469,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011635.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011645.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 1223,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011645.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011653.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 10033,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011653.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011757.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 3308,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011757.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011814.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 10001,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011814.png",
+      "dependencies": []
+    },
+    "свободное-время/время-для-развития/images/pasted-image-20240320011824.png": {
+      "modifiedTime": 1718477166041,
+      "sourceSize": 7393,
+      "exportedPath": "свободное-время/время-для-развития/images/pasted-image-20240320011824.png",
+      "dependencies": []
+    }
+  }
+}
